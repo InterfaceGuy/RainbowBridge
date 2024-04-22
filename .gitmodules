@@ -1,0 +1,3 @@
+[submodule "LiminalWebUI"]
+	path = LiminalWebUI
+	url = https://github.com/InterfaceGuy/LiminalWebUI
